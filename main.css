@@ -100,6 +100,7 @@ a:focus {
 
 .Cherry-text {
   padding: 80px 0px;
+  color: white;
 }
 
 .btn-4 {
@@ -134,7 +135,7 @@ a:focus {
   margin-top: 40px;
 }
 
-h3 {
+.h3-text {
   color: #d41217;
   font-weight: bold;
 }
@@ -207,7 +208,7 @@ h3 {
   font-weight: bold;
 }
 
-h4 {
+.h4-share {
   text-align: center;
   margin-top: 80px;
   color:#d41217;
