@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color:black;
+  text-decoration: none;
+}
+
+li {
+  color:black;
+}
+
+a:focus {
+  color: red;
+  font-weight: bold;
+}
+
+.card-header:active, .card-header:focus {
+  background-color: lightcoral;
+}
+
+.card {
+  border: none;
+}
+
+.input-group {
+  /* width: 600px; */
+  border-style: solid;
+  border-color: red;
+}
+
+.btn-wide {
+  width: 150px;
+}
+
+.dropdown-menu {
+  border: none;
+}
+
+.RestaurangCasino {
+  background-color: #8961A6;
+  text-align: center;
+}
+
+.RestaurangCasino-text {
+  padding: 40px 0px;
+}
+
+.btn-1 {
+  color: #8961A6;
+  margin-top: 0px;
+  width: 300px;
+}
+
+.Yggdrasil {
+  background-color: #f39332;
+  text-align: center;
+}
+
+.Yggdrasil-text {
+  padding: 40px 0px;
+}
+
+.btn-2 {
+  color: #f39332;
+  margin-top: 0px;
+  width: 300px;
+}
+
+.ComeOn {
+  background-color: #8db524;
+  text-align: center;
+}
+
+.ComeOn-text {
+  padding: 40px 0px;
+}
+
+.btn-3 {
+  color:#8db524;
+  margin-top: 0px;
+  width: 300px;
+}
+
+.Cherry {
+  background-color: #d41217;
+  text-align: center;
+}
+
+.GameLounge {
+  background-color:#41bfed;
+}
+
+.GreyDark {
+  background-color: #7b858a;
+}
+
+.Cherry-text {
+  padding: 80px 0px;
+}
+
+.btn-4 {
+  color: #d41217;
+  margin-top: 88px;
+  width: 300px;
+}
+
+.cols-4 {
+  color: white;
+  /* height: 400px; */
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.alert-color {
+  background-color:rgb(81, 69, 69);
+}
+
+.container-nav {
+  border-top: 2px solid red;
+}
+
+.header-upper {
+  height: 70px;
+}
+
+.text-1 {
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+h3 {
+  color: #d41217;
+  font-weight: bold;
+}
+
+.btn-med-wide {
+  width: 150px;
+  margin-bottom: 40px;
+}
+
+.text {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.text-col-ComeOn {
+  background-color:#d9e9b1;
+}
+
+.h2-1 {
+  color: #8db524;
+  font-weight: bold;
+}
+
+.text-col-RestaurangCasino {
+  background-color: #e0cdee;
+  color: #8961A6;
+}
+
+.h2-2 {
+  color: #8961A6;
+  font-weight: bold;
+}
+
+.text-col-Yggdrasil {
+  background-color:#f0ddcb;
+  color: #f39332;
+}
+
+.h2-3 {
+  color:#f39332;
+  font-weight: bold;
+}
+
+.text-col-GameLounge {
+  background-color: rgb(214, 233, 247);
+  color: #41bfed;
+}
+
+.h2-4 {
+  color:#41bfed;
+  font-weight: bold;
+}
+
+.text-col-GreyDark {
+  background-color: #cddcdb;
+}
+
+.h2-5 {
+  color: #7b858a;
+  font-weight: bold;
+}
+
+.text-col-Cherry {
+  background-color: #f6d1d3;
+  color: #d41217;
+}
+
+.h2-6 {
+  color: #d41217;
+  font-weight: bold;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 80px;
+  color:#d41217;
+  font-weight: bold;
+}
+
+.menu-item-s {
+  line-height: 2.2;
+}
+
+.menu-item {
+  color: #d41217;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #fdeeee;
+}
+
+.hr {
+  border-top: 3px solid red;
+}
+
+.links {
+  color:#d41217;
+}
